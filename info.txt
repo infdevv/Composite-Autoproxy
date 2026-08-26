@@ -1,6 +1,6 @@
 # High-Quality Proxy List
-# Updated: 2026-08-26 18:12:07
-# Total unique proxies: 1383
+# Updated: 2026-08-26 20:31:02
+# Total unique proxies: 1417
 # Sources: 18 URLs
 
 # Sources used:
